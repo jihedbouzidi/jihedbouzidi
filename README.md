@@ -11,17 +11,13 @@
   <img src="https://img.shields.io/github/followers/jihedbouzidi?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
 </p>
 
-<div align="center">
-  <img src="https://i.gifer.com/origin/1d/1dc2e92177c43cac5bd2f59de5381a15_w200.gif" alt="Coding" width="400"/>
-</div>
-
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```typescript
 const jihed = {
-    location: "Tunisia 🇹🇳",
+    location: "Tunisia ",
     role: "Full Stack Developer",
     currentProjects: ["TradeX", "TransConnect"],
     learning: ["React.js", ".NET", "Spring Boot", "Node.js"],
@@ -32,14 +28,10 @@ const jihed = {
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>🔷 TradeX</h3>
-      <p>Trading platform application</p>
-    </td>
     <td align="center" width="50%">
       <h3>🔶 TransConnect</h3>
       <p><a href="https://app-preprod.transconnect.tn/">Transport management system</a></p>
@@ -49,7 +41,7 @@ const jihed = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend Development
 <p align="left">
@@ -90,7 +82,7 @@ const jihed = {
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jihedbouzidi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
@@ -98,7 +90,7 @@ const jihed = {
 
 ---
 
-## 💼 Skills Overview
+## Skills Overview
 
 ```text
 Frontend        ████████████████████░   90%
@@ -128,7 +120,7 @@ DevOps          ███████████████░░░░░░ 
 
 ---
 
-## 💡 Quote of the Day
+## Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -141,5 +133,5 @@ DevOps          ███████████████░░░░░░ 
 </div>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/jihedbouzidi">Jihed Bouzidi</a></i>
+  <i>From <a href="https://github.com/jihedbouzidi">Jihed Bouzidi</a></i>
 </p>
