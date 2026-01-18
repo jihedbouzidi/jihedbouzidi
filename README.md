@@ -65,7 +65,7 @@ const jihed = {
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jihedbouzidi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -82,14 +82,6 @@ const jihed = {
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jihedbouzidi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
-
----
-
 ## Skills Overview
 
 ```text
@@ -101,7 +93,7 @@ DevOps          ███████████████░░░░░░ 
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/jihed-bouzidi">
