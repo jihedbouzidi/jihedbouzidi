@@ -45,7 +45,7 @@ const jihed = {
 
 ### Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,react native,angular,typescript,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css,tailwind" />
 </p>
 
 ### Backend Development
