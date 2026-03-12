@@ -55,7 +55,7 @@ const jihed = {
 
 ### Database & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,oracle,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
 </p>
 
 ### DevOps & Tools
