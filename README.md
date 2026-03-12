@@ -19,9 +19,9 @@
 const jihed = {
     location: "Tunisia ",
     role: "Full Stack Developer",
-    currentProjects: ["TradeX", "TransConnect"],
+    currentProjects: ["Readdly", "TransConnect"],
     learning: ["React.js", ".NET", "Spring Boot", "Node.js"],
-    email: "jihedb93@gmail.com",
+    email: "jbd.bouzidi@gmail.com",
     passions: ["Clean Code", "Problem Solving", "Continuous Learning"]
 };
 ```
@@ -33,7 +33,7 @@ const jihed = {
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🔶 TransConnect</h3>
+      <h3> TransConnect</h3>
       <p><a href="https://app-preprod.transconnect.tn/">Transport management system</a></p>
     </td>
   </tr>
@@ -45,7 +45,7 @@ const jihed = {
 
 ### Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,react native,angular,typescript,javascript,html,css" />
 </p>
 
 ### Backend Development
